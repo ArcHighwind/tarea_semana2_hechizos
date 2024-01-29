@@ -14,4 +14,4 @@ insert into tbl_spells
 values
 ('Flare', '4', 'sends a small blast of fire that burns an enemy', 'low Fire Damage');
 
-select * FROM tbl_spells
+select * FROM tbl_spells 
